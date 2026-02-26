@@ -6,7 +6,7 @@
 
 <h4>Purpose</h4>
 
-Learn to explore an API using `Swagger UI` and authenticate with an API key.
+Learn to explore an API using `Swagger   UI` and authenticate with an API key.
 
 <h4>Context</h4>
 
